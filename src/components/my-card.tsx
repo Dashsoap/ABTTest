@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import './ProfileEditor.css';
+import './card.css';
 
 interface ProfileData {
   username: string;
