@@ -28,3 +28,19 @@ pre {
 .app-link {
   color: #4f6af5;
 }
+.item {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  margin: 10px 0;
+  font-size: 1rem;
+  input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  label {
+    margin-right: 10px;
+    font-size: 1rem;
+  }
+}
